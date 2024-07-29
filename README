@@ -1,1 +1,38 @@
-Comienzo del README
+Hub Entretenimiento Backend
+
+## Descripcion
+En este repositorio se desarrollado el backend del proyecto.
+Se planteo usar Express para poder realizar un backend rapido y sencillo
+
+## Objetivo 
+Desarrollar la base de datos, ademas construir con pequeño backend donde la base de datos pueda ser manipulada a traves de diversas peticiones http, El objetivo es desarrollar una aplicacion escalable, robusta y eficiente. utilizando asi angular para el Front, Express para el backend y SQL server para la base de datos.
+
+## Tecnologia utilizada
+-Express
+-SQL
+
+
+## Diagrama entidad-Relacion
+El modelado entidad-relacion de la base de datos realizada para el proyecto
+![image](https://github.com/LuisMarquezz/Hub-Entretenimiento-Backend/tree/master/Querys/DiagramaER.jpg)
+
+
+## Problemas conocidos
+El tiempo fue un factor ya que le dedique mas tiempo a terminar el curso que a realizar el backend, sin embargo yo soy conciente de debi avanzar mas y debo mejorar en mis tiempos de respuesta con los entregables, voy a trabajar en mejorar eso.
+
+Algunas cosas no las entiendo del todo, hasta tiempo despues luego de pensarlo me cae la idea o lo comprendo por fin.
+
+
+
+## Retroalimentacion
+
+### ¿Qué hice bien?
+Poco o nada, realmente lo unico bien fue a llegar a entender los conceptos de lo que se esta intentando hacer.
+### ¿Qué no salio bien?
+- Hace falta hacer conexion con el front 
+- Hace falta mejorar muchas cosas
+- No se logró realizar los procedimientos almacenados.
+
+### ¿Qué puedo hacer diferente?
+1.- Pedir ayuda, aunque soy muy timido creo que debo trabajar la parte social y en equipo tambiem.
+2.- Mejorar en todo, si bien tuve unos problemillas por ahi, no es excusa para atrasarse con los entregables, prometo ponerme al dia con el siguiente sprint.
